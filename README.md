@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Buhari</h1>
 <h3 align="center">A passionate Full Stack developer </h3>
-<h4 align="center">hand on experience on Front-End Development </h4>
+<h4 align="center">Hand's on experience in the Front-End Development </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buharisahith&label=Profile%20views&color=0e75b6&style=flat" alt="buharisahith" /> </p>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/buharisahith" target="blank"><img src="https://img.shields.io/twitter/follow/buharisahith?logo=twitter&style=for-the-badge" alt="buharisahith" /></a> </p>
 
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Back-End
 
 - 📫 How to reach me **buharisahith@gmail.com**
 
