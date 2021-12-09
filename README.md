@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/buharisahith" target="blank"><img src="https://img.shields.io/twitter/follow/buharisahith?logo=twitter&style=for-the-badge" alt="buharisahith" /></a> </p>
 
-- 🌱 I’m currently learning Back-End
+- 🌱 I’m currently learning Back-End (Java , SpringBoot , Mysql)
+- In love with ReactJs
 
 - 📫 How to reach me **buharisahith@gmail.com**
 
